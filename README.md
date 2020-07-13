@@ -1,2 +1,2 @@
-# bulletsandwalls
-created walls and bullets game using VISUAL CODE STUDIO
+# p5.play-boilerplate
+Boiler plate for p5.play
